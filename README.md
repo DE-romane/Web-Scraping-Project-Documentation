@@ -58,5 +58,3 @@ The extracted product data is saved in a CSV file.
 
 **Output:**
 - `products_data.csv`: A CSV file containing all product data extracted from the links.
-  
-### Conclusion
